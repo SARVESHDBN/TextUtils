@@ -1,0 +1,4 @@
+ye sab kuch aise likhna hota hai baki sab same hota hai 
+tabIndex
+className
+htmlFor 
