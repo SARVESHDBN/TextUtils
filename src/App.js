@@ -3,7 +3,7 @@ import './App.css';
 import Navbar from './components/Navbar';
 import TextForm from './components/TextForm';
 import About from './components/About';
-import React, { useState, useSyncExternalStore } from 'react';
+import React, { useState } from 'react';
 import Alert from './components/Alert';
 
 import {
@@ -76,12 +76,3 @@ function App() {
 }
 
 export default App;
-
-{/* 
-  dummy model 
-  <BrowserRouter>
-      <Routes>
-        <Route></Route>
-      <Home Mode= {Mode} toggleMode={toggleMode} alert={alert} showalert={showalert}/>
-      </Routes>
-      </BrowserRouter> */}
